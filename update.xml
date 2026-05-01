@@ -2,6 +2,6 @@
 <item>
   <version>3.0.0.0</version>
   <url>https://github.com/LeeVough03/pisonet-control-updates/releases/latest/download/PisonetControlVS-3.0.0.zip</url>
-  <changelog>https://github.com/LeeVough03/pisonet-control-updates/releases/tag/v3.0.0</changelog>
+  <changelog>https://github.com/LeeVough03/pisonet-control-updates/releases</changelog>
   <mandatory>false</mandatory>
 </item>
