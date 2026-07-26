@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>2.0.0.4</version>
-	<url>https://github.com/LeeVough03/pisonet-control-updates/releases/download/v2.0.0.4/Pisonet.V2.0.0.4.zip</url>
+		<version>2.0.0.5</version>
+		<url>https://github.com/LeeVough03/pisonet-control-updates/releases/download/V2.0.0.5/Pisonet.V2.0.0.5.zip</url>
 	<changelog>https://github.com/LeeVough03/pisonet-control-updates/releases</changelog>
 	<mandatory>false</mandatory>
 </item>
